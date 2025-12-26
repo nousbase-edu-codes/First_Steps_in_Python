@@ -31,12 +31,15 @@ Anyone who prefers learning by typing and experimenting
 
 **Repository Structure**
 First_Steps_in_Python/
-│
+
 ├── First_Steps_in_Python.ipynb
+
 ├── sci-mate_project.ipynb
+
 └── README.md
 
 **Notebooks Explained**
+
 1️. **First_Steps_in_Python.ipynb**
 
 This notebook contains chapter-wise code examples from the book.
